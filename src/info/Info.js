@@ -97,22 +97,22 @@ export const info = {
     {
       title: "MGC Derma",
       live: "https://uk.mgcderma.com/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it. // this should be a link to the **repository** of the project, where the code is hosted.
-      image: "https://monosnap.com/image/ue7OvgqfVQAQo8ATnJX8MWs1kveMcX",
+      image: "https://img001.prntscr.com/file/img001/h-rj-93rRMyeFrDBjbe0SA.png",
     },
     {
       title: "the fragrance warehouse",
       live: "https://thefragrancewarehouse.co.uk/",
-      image: "https://monosnap.com/image/sXAU8fJAC4KjeIAgOQYSoFJokE3PYy",
+      image: "https://img001.prntscr.com/file/img001/LqSTP0FcQEudPG6ZtZBa-Q.png",
     },
     {
       title: "delixirs",
       live: "https://delixirs.in/products/face-serum",
-      image: "https://monosnap.com/image/KhlSHVew9vicymEwLQwfHCE4B96kIG",
+      image: "https://img001.prntscr.com/file/img001/uHVoD7kiSeqdrJ1RmgrbAw.png",
     },
     {
       title: "bahati collective",
       live: "https://bahaticollective.com/products/marble-top-new-gold-coffee-table",
-      image: "https://monosnap.com/image/qy6OtaeWySaVKXHTZRs06F18Yue7oq",
+      image: "https://img001.prntscr.com/file/img001/tagMvnSFRwmPw4TnAaVJBA.png",
     },
   ],
 };
